@@ -6,7 +6,7 @@
 
 Go through everything, it will give you a good overview and give you the big picture, and will ensure you feel less lost once you finish a tutorial for a new language/framework and have no clue what to do.
 
-But if you are still too lazy, here's the <a href="#TLDR">TL;DR</a>
+But if you are still too lazy, here's the **<a href="#TLDR">TL;DR</a>**
 
 # Overview of Programming
 > What can I accomplish by learning to code ?
