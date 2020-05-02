@@ -6,7 +6,7 @@
 
 Go through everything, it will give you a good overview and give you the big picture, and will ensure you feel less lost once you finish a tutorial for a new language/framework and have no clue what to do.
 
-But if you are still too lazy, here's the <a href="#user-content-TLDR">TL;DR</a>
+But if you are still too lazy, here's the <a href="#TLDR">TL;DR</a>
 
 # Overview of Programming
 > What can I accomplish by learning to code ?
@@ -15,13 +15,13 @@ But if you are still too lazy, here's the <a href="#user-content-TLDR">TL;DR</a>
 
 # Platforms
 
- - ## [Web](#user-content-Web) (Websites and Webapps - Ex: Google.com, Facebook.com, Twitter.com)
+ - ## [Web](#Web) (Websites and Webapps - Ex: Google.com, Facebook.com, Twitter.com)
 
- - ## [Desktop](#user-content-Desktop) (Applications like: Notepad, Microsoft Word, Adobe Photoshop, Games)
+ - ## [Desktop](#Desktop) (Applications like: Notepad, Microsoft Word, Adobe Photoshop, Games)
 
- - ## [Mobile](#user-content-Mobile) (Android and iOS apps: Whatsapp, Snapchat)
+ - ## [Mobile](#Mobile) (Android and iOS apps: Whatsapp, Snapchat)
 
- - ## [Others](#user-content-Others) (VR, Embedded Systems: Raspberry Pi, Arduino)
+ - ## [Others](#Others) (VR, Embedded Systems: Raspberry Pi, Arduino)
 
 # But before that
 
@@ -42,7 +42,7 @@ But if you are still too lazy, here's the <a href="#user-content-TLDR">TL;DR</a>
 
 **Do I need a..**
 
-- [ ] [Website](#user-content-Web) ?
+- [ ] [Website](#Web) ?
 - [ ] [Desktop App]() ?
   - [ ] [Windows]() ?
   - [ ] [Mac]() ?
@@ -61,7 +61,7 @@ Look and feel of your application, the User Interface
 > What you don't see
 Databases, APIs and other Logic that makes the magic happen behind the scenes
 
-# <a id="user-content-Web">Web</a>
+# <a id="Web">Web</a>
 ## Front End
 ---
 You need to understand HTML, CSS and Javascript (JS) to build websites. HTML is like the skeleton, while CSS is your skin that defines your looks, and Javascript is the nervous and Brain running your body.
@@ -110,7 +110,7 @@ Choose SQL when you know exactly in what way you want to structure your data and
 
 ### Follow [Hybrid Approaches](#Hybrid) that allow you to build a Website that works like a mobile and desktop app.
 
-# <a id="user-content-Desktop">Desktop</a>
+# <a id="Desktop">Desktop</a>
 ---
 
 P.S. Everything that runs on a Desktop will run on your server, so the programs you write for this platform, can be integrated into your backend services and served using websites.
@@ -140,9 +140,9 @@ P.S. Everything that runs on a Desktop will run on your server, so the programs 
 
   - **C++**: The most performant Language you could learn. It will run the fastest, and will always be the best language to implement your final version of the code if you are building something that is resource heavy. (Is Harder to get started with, and I do not recommend learning this as your first programming language. Start with Javascript or Python really! Then pick this.)
 
-### Follow [Hybrid Approaches](#user-content-Hybrid) that allow you to build a Website that works like a mobile and desktop app.
+### Follow [Hybrid Approaches](#Hybrid) that allow you to build a Website that works like a mobile and desktop app.
 
-# <a id="user-content-Mobile">Mobile</a>
+# <a id="Mobile">Mobile</a>
 ---
 ## Android
  - [Kotlin](https://www.youtube.com/watch?v=Iz08OTTjR04)
@@ -161,11 +161,11 @@ Yes this is very much possible, you can write code once and build an Android and
 
 Flutter is my personal Favorite solely because of flexible it is. Beautiful UIs, fast builds everything is perfect.
 
-# <a id="user-content-Others">Others</a>
+# <a id="Others">Others</a>
 ---
 Arduino is probably the most famous one out there for getting custom electronics projects done. Won't say much, if you have a foundation in programming and want to try some electronics projects or vice versa, you can explore [Arduino Projects](https://create.arduino.cc/projecthub). The best way is to build really.
 
-# <a id="user-content-Hybrid">Hybrid Approaches</a>
+# <a id="Hybrid">Hybrid Approaches</a>
 ---
 
 Hybrid Approaches basically allow you to write code for one platform and have it work on another with little to know hacks.
@@ -177,7 +177,7 @@ Hybrid Approaches basically allow you to write code for one platform and have it
 
  **Additional**: **ElectronJS** allows you to turn WebApps writted in ReactJS, Angular into desktop apps. 
 
-# <a id="user-content-TLDR">TL;DR Just tell me what is best to learn! </a>
+# <a id="TLDR">TL;DR Just tell me what is best to learn! </a>
 ---
 
 - If you just want to learn to code and will figure out what to build afterwards, choose one of the 2:
