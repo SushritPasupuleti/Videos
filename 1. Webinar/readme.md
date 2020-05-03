@@ -184,6 +184,8 @@ Hybrid Approaches basically allow you to write code for one platform and have it
 # <a id="TLDR">TL;DR Just tell me what is best to learn! </a>
 ---
 
+<img src="assets/langs.gif" style="height:300px"/>
+
 - If you just want to learn to code and will figure out what to build afterwards, choose one of the 2:
 
     - [Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
