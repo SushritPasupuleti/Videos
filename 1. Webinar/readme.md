@@ -1,6 +1,8 @@
 # Webinar 1 - The Complete Guide to Coding during the Lockdown
 
-` Effort + Wrong Tools != Success `
+## ` Effort + Wrong Tools != Success `
+
+<img src="assets/tools.jpg" style="height:600px"/>
 ---
 <br>
 
@@ -167,6 +169,8 @@ Arduino is probably the most famous one out there for getting custom electronics
 
 # <a id="Hybrid">Hybrid Approaches</a>
 ---
+
+<img src="assets/hybrid.jpg" style="height:600px"/>
 
 Hybrid Approaches basically allow you to write code for one platform and have it work on another with little to know hacks.
 
