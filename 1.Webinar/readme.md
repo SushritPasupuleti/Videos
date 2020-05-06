@@ -46,14 +46,14 @@ But if you are still too lazy, here's the **<a href="#TLDR">TL;DR</a>**
 
 **Do I need a..**
 
-- [ ] [Website](#Web) ?
-- [ ] [Desktop App]() ?
-  - [ ] [Windows]() ?
+- [x] [Website](#Web) ?
+- [x] [Desktop App]() ?
+  - [x] [Windows]() ?
   - [ ] [Mac]() ?
   - [ ] [Linux]() ?
-- [ ] [Mobile App]() ?
-  - [ ] [Android]() ?
-  - [ ] [iOS]() ?
+- [x] [Mobile App]() ?
+  - [x] [Android]() ?
+  - [x] [iOS]() ?
 
 ## Some Fundamentals
 
@@ -131,11 +131,11 @@ The following add styling and animations to your websites with very little modif
 | 3   | 25M   |
 | 4   | 18M   |
 
-| id  | net_worth      |
+| id  | following      |
 | --- | -------------- |
-| 1   | \$9.2 billion  |
+| 1   | 0  |
 | 2   | \$2.4 million  |
-| 3   | \$12.4 billion |
+| 3   | 85 |
 | 4   | -              |
 
 - NoSQL
