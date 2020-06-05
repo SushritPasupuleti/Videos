@@ -8,7 +8,9 @@
 
 Go through everything, it will give you a good overview and give you the big picture, and will ensure you feel less lost once you finish a tutorial for a new language/framework and have no clue what to do.
 
-But if you are still too lazy, here's the **<a href="#TLDR">TL;DR</a>**
+But if you are still too lazy, here's the **<a href="#TLDR">TL;DR</a>** or watch the video on Youtube.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pDNfLGBYAw0/0.jpg)](https://www.youtube.com/watch?v=pDNfLGBYAw0)
 
 # Overview of Programming
 
