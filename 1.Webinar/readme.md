@@ -114,6 +114,7 @@ The following add styling and animations to your websites with very little modif
   - [django](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK) (Most Robust Option! Everything you'll mostly need is already built in, uses best practices for everything! Good starting Point)
   - [flask](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) (More Do it Yourself)
   - [sanic](https://sanic.readthedocs.io/en/latest/) (Much more barebones than Flask. Relatively New)
+  - [fastapi](https://fastapi.tiangolo.com/) (Similar to flask and co. Relatively New, the fastest among all)
 
 ### Database (Store, Retrieve and Modify Data)
 
