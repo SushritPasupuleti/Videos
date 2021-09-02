@@ -158,7 +158,7 @@ Choose SQL when you know exactly in what way you want to structure your data and
 
 P.S. Everything that runs on a Desktop will run on your server, so the programs you write for this platform, can be integrated into your backend services and served using websites.
 
-- **JavaScript (Node.js)**: Now we use JS to build websites, and it is pretty simple to learn and get started with, it is also possible to use the existing knowledge of JS and build applications uisng certain frameworks.
+- **JavaScript (Node.js)**: Now we use JS to build websites, and it is pretty simple to learn and get started with, it is also possible to use the existing knowledge of JS and build applications using certain frameworks.
 
   - [Electron](https://www.electronjs.org/): Build apps for all 3 platforms (**Windows**, **MacOS**, **Linux**) without hassle. The best option in the list.
 
