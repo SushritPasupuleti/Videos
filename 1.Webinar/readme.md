@@ -142,7 +142,7 @@ The following add styling and animations to your websites with very little modif
 | 4   | -              |
 
 - NoSQL
-  - [MongoDB](https://www.youtube.com/watch?v=pWbMrx5rVBE) (Much more prototype friendly, espescially when you are just figuring out how to store your data, unstructured or wildly connected data with no common patterns)
+  - [MongoDB](https://www.youtube.com/watch?v=pWbMrx5rVBE) (Much more prototype friendly, especially when you are just figuring out how to store your data, unstructured or wildly connected data with no common patterns)
 
 <img src="assets/graph.png" style="height:300px"/>
 
