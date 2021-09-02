@@ -143,6 +143,8 @@ The following add styling and animations to your websites with very little modif
 
 - NoSQL
   - [MongoDB](https://www.youtube.com/watch?v=pWbMrx5rVBE) (Much more prototype friendly, especially when you are just figuring out how to store your data, unstructured or wildly connected data with no common patterns)
+- Graph Databases
+  - [Neo4j](https://neo4j.com/) (For data that has lots of relationships)
 
 <img src="assets/graph.png" style="height:300px"/>
 
